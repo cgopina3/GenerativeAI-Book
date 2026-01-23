@@ -112,13 +112,108 @@ To obtain real latency measurements, follow these steps:
 
 ---
 
-## Summary
+# Activity: Measuring `np.dot` Speed on Google Colab GPU
 
-| Mini Project | Language | Concept | File |
-|-------------|---------|---------|------|
-| Machine Epsilon | Python | Floating-point precision | `machine_epsilon.py` |
-| 255 + 1 Overflow | JavaScript | Integer overflow / Uint8Array | `uint8_overflow.js` |
-| Cache Latency | Python | Cache memory, exponential fit | `cache_latency_analysis.py` |
+## Objective
+Measure the speed of `np.dot` for large vectors in FP32 vs FP16 on a Google Colab GPU.
 
-Each project is **self-contained**, and the code can be run independently. This structure ensures clarity and reproducibility for all three mini-projects.
+## Steps
+1. Open [Google Colab](https://colab.research.google.com) and create a new notebook.  
+2. Set **Runtime → Change runtime type → GPU**.  
+3. Run the Python script below or link the file.
+
+### Python Script
+The code is in [`gpu_dot_product_speed.py`](gpu_dot_product_speed.py)
+
+```bash
+python gpu_dot_product_speed.py
+```
+
+## Expected Outcome
+- FP16 computation will be significantly faster than FP32.  
+- GPUs with Tensor Cores are optimized for lower-precision calculations.
+
+---
+
+# Mini-Project: Build an 8-Bit Neural Net in a Spreadsheet
+
+This mini-project demonstrates that a neural network is just a series of **matrix multiplications (dot products) and additions**. By using a spreadsheet, you will see the arithmetic in its purest form without the “magic” of libraries.
+
+## Goal and Challenge
+**Goal:** Classify 15 flowers from the Iris dataset using a tiny, hand-coded neural network **without writing Python code**.
+
+**Challenge:** Every number—input, weight, and intermediate result—must be handled as an **8-bit unsigned integer (0–255)** representing the **Q2.6 fixed-point format**, which forces manual quantization.
+
+## Neural Network Architecture
+
+| Component      | Quantity     | Data Type | Notes |
+|----------------|------------|-----------|-------|
+| Input Layer (x)| 3 features | INT8      | Use 3 of the 4 Iris features |
+| Hidden Layer (h)| 2 neurons  | INT8      | With ReLU activation |
+| Output Layer (y)| 1 neuron   | INT8      | Classification score |
+
+## Q2.6 Fixed-Point Encoding
+**INT8 numbers** range from 0 to 255. To convert into real-world decimal numbers:
+
+\[
+\text{Real Value} = \frac{\text{Stored Integer}}{2^6} = \frac{\text{Stored Integer}}{64}
+\]
+
+**Examples:**
+- Minimum precision: 1/64 = 0.015625  
+- Stored value 255 → 255/64 ≈ 3.98  
+- Stored value 64 → 64/64 = 1.0  
+- Stored value 1 → 1/64 ≈ 0.0156
+
+## Step-by-Step Forward Pass (The Math)
+
+### Hidden Layer Calculation (Single Neuron z1)
+\[
+z_1 = \text{ReLU}(W_1 \cdot X + b_1)
+\]
+Where:  
+- X = [x1, x2, x3] → input features  
+- W1 = [w11, w21, w31] → weights connecting inputs to hidden neuron 1  
+
+**Dot Product:**
+```
+w1*x1 + w2*x2 + w3*x3
+```
+- Q2.6 × Q2.6 → Q4.12 number (16-bit: 4 integer + 12 fraction bits)
+
+**Spreadsheet Formula (Pseudo-code):**
+```excel
+F5 = (B2*C5) + (B3*C6) + (B4*C7)
+```
+- B2, B3, B4 → input values (X)  
+- C5, C6, C7 → weights (W)
+
+### Dequantization / Scaling
+Convert Q4.12 back to Q2.6:
+\[
+z = \text{ReLU}((W \cdot X)/2^6)
+\]
+**Spreadsheet Formula (Quantized):**
+```excel
+G5 = ROUNDDOWN((F5 / 64), 0)
+```
+
+### ReLU Activation
+- Numbers are unsigned; ReLU is simple:
+```
+ReLU(z) = z if z >= 0
+```
+- In Excel: ensure result does not go below 0
+
+## Iris Dataset Visualization (15 Samples)
+
+Here’s a scatter plot showing **15 samples from the Iris dataset (5 per species)** used in this mini-project:
+
+![Iris 15 Samples](images/iris_15_samples.png)
+
+## The “Aha!” Moment
+Once all 15 inputs are passed through the two layers:
+- Outputs classify the flowers correctly (outputs < 128 → class 1, > 128 → class 2)  
+- Students realize: **“AI is just arithmetic in a trench coat.”**  
+- Neural network is fundamentally **addition and multiplication on carefully controlled numbers**.
 
