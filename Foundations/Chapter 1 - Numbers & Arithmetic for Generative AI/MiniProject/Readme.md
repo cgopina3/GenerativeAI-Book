@@ -1,10 +1,113 @@
 # Foundations Mini Projects – Generative AI Book
 
+This chapter focuses on **hands-on, real-world mini-projects** that build intuition around numerical representation, encoding, quantization, and precision—core ideas behind modern AI systems.
+
+Each project strips away library “magic” and exposes the underlying arithmetic.
+
 This chapter contains three foundational computing mini-projects demonstrating important concepts in programming, numerical computation, and computer architecture.
 
 ---
 
-## 1. Machine Epsilon (Python)
+
+## 1. Mini Project
+
+## A. Emoji Password Strength Checker
+
+### Problem Statement
+Analyze the strength of an emoji-based password by examining its **Unicode representation**.
+
+### Concepts
+- Unicode encoding  
+- Base-16 (hexadecimal)  
+- Set cardinality  
+- Information entropy  
+
+### Approach
+1. Convert each emoji (Unicode character) to its hexadecimal code point.
+2. Split the hexadecimal string into **nibbles (4-bit chunks)**.
+3. Count the number of **unique nibbles**.
+4. Use this count as a proxy for password entropy.
+
+### Outcome
+- Demonstrates how symbol diversity increases entropy.
+- Shows the connection between **encoding schemes** and **security**.
+
+### Implementation
+File:
+- `emoji_password_strength.py`
+
+---
+
+## B. RGB Image to Grayscale (Without Libraries)
+
+### Problem Statement
+Convert an RGB image to grayscale **without using image-processing libraries**.
+
+### Concept
+Human-eye luminosity model:
+```
+Y = 0.299R + 0.587G + 0.114B
+```
+
+### Challenge
+Use **only integer arithmetic** (fixed-point math).
+
+### Fixed-Point Strategy
+1. Multiply coefficients by 1024  
+2. Perform integer arithmetic  
+3. Divide the final result by 1024  
+
+### Fixed-Point Formula
+```
+Y = (306R + 601G + 117B) >> 10
+```
+
+### Skills Developed
+- Fixed-point arithmetic  
+- Quantization  
+- Precision control  
+
+### Implementation
+File:
+- `rgb_to_grayscale_fixed_point.py`
+
+---
+
+## C. 8-Bit Floating-Point “Toy” System
+
+### Problem Statement
+Design and experiment with a **custom 8-bit floating-point format**.
+
+### Format Definition
+| Component | Bits |
+|---------|------|
+| Sign    | 1    |
+| Exponent | 3   |
+| Mantissa | 4   |
+
+### Task
+- Encode the value `0.15625`
+- Decode it back to a real number
+
+### Concepts
+- Floating-point representation  
+- Overflow and underflow  
+- Precision loss  
+- Motivation behind formats like `bfloat16` in deep learning  
+
+### Outcome
+A clear understanding of:
+- Numerical limitations  
+- Precision vs. range trade-offs  
+- Why reduced-precision formats dominate AI hardware
+
+### Implementation
+File:
+- `toy_float8.py`
+
+---
+
+## 2. Machine Epsilon (Python)
 
 ### Problem Statement
 Find the **smallest positive floating-point number** ε such that:
@@ -35,7 +138,7 @@ Machine epsilon: 2.220446049250313e-16
 
 ---
 
-## 2. 255 + 1 Overflow (JavaScript)
+## 3. 255 + 1 Overflow (JavaScript)
 
 ### Problem Statement
 Demonstrate **overflow** of an 8-bit unsigned integer when adding 1 to 255.
@@ -63,7 +166,7 @@ Adding 1 to 255 in an 8-bit unsigned integer wraps around to 0 because `Uint8Arr
 
 ---
 
-## 3. Cache Latency vs Memory Size (Python)
+## 4. Cache Latency vs Memory Size (Python)
 
 ### Problem Statement
 Measure **memory latency** for different cache levels (L1, L2, L3) and main memory, then fit an **exponential curve** to the latency data.
@@ -112,7 +215,7 @@ To obtain real latency measurements, follow these steps:
 
 ---
 
-# Activity: Measuring `np.dot` Speed on Google Colab GPU
+## 5. Activity: Measuring `np.dot` Speed on Google Colab GPU
 
 ## Objective
 Measure the speed of `np.dot` for large vectors in FP32 vs FP16 on a Google Colab GPU.
@@ -135,7 +238,7 @@ python gpu_dot_product_speed.py
 
 ---
 
-# Mini-Project: Build an 8-Bit Neural Net in a Spreadsheet
+## 6. Mini-Project: Build an 8-Bit Neural Net in a Spreadsheet
 
 This mini-project demonstrates that a neural network is just a series of **matrix multiplications (dot products) and additions**. By using a spreadsheet, you will see the arithmetic in its purest form without the “magic” of libraries.
 
