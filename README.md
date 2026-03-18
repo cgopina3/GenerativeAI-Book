@@ -47,39 +47,54 @@
 </table>
 
 ---
-<table width="100%" border="0"> <tr> <td width="33%" valign="top" style="padding: 15px;"> <h3 align="center">Gopinath Chidambaram</h3> <p align="center"><a href="https://www.linkedin.com/in/gopinath-chidambaram/">🔗 LinkedIn </a> </p> <p> Gopinath Chidambaram is a specialist in AI and Cloud, delivering enterprise-scale AI intelligence since 2007. A globally recognized AI pioneer and a <b>“40 Under 40 AI Builder”</b> awardee, he is dedicated to bridging the gap between complex algorithms and human-centric solutions. <br><br> He notably spearheaded the development of one of India’s first proof-of-concept <b>Level-5 Autonomous Vehicle AI stacks</b> and holds <b>five patents</b> in AI and autonomous systems. Known for scaling AI products from research to global production, he is also an active open-source contributor and mentor to the next generation of data scientists and ML engineers. <br><br> A sought-after speaker at international technology summits, he advocates for ethical and high-impact deployment of Generative AI and Agentic AI. </p> </td>
-<td width="33%" valign="top" style="padding: 15px;">
-  <h3 align="center">Nandhagopalan Elangovan</h3>
-  <p align="center">
-    <a href="https://www.linkedin.com/in/nandhu15/">
-      🔗 LinkedIn
-    </a>
-  </p>
-  <p>
-    Nandhagopalan Elangovan is a leading expert in AI, Transformer architectures, and Deep Learning, recognized for his contributions to cross-lingual NLP models and predictive analytics. With an academic foundation from Anna University and Great Lakes Institute of Management, he specializes in end-to-end operationalization of AI systems.  
-    <br><br>
-    His expertise spans the full AI lifecycle—from training custom word embeddings to deploying high-performance systems using Python and cloud-native architectures.  
-    <br><br>
-    He is dedicated to advancing <b>Human-in-the-Loop AI</b>, focusing on interpretable machine learning systems that deliver transparent, data-driven insights. His work promotes scalable, open-source-inspired platforms that democratize AI learning and accessibility.
-  </p>
-</td>
+---
 
-<td width="33%" valign="top" style="padding: 15px;">
-  <h3 align="center">Shravanthi A</h3>
-  <p align="center">
-    <a href="https://www.linkedin.com/in/shravanthia345996225/">
-      🔗 LinkedIn
-    </a>
-  </p>
-  <p>
-    Shravanthi A is a Principal AI Scientist driven by the mission to create <b>“tech for good and tech for all.”</b> She is widely recognized for developing inclusive technologies that leverage AI to improve everyday life.  
-    <br><br>
-    Her journey reflects strong academic excellence combined with hands-on innovation in communication technologies, Generative AI, and Agentic AI. She specializes in Python and intelligent systems to design impactful, real-world solutions.  
-    <br><br>
-    Passionate about hardware-integrated intelligent systems, she is at the forefront of engineers operationalizing AI for global challenges and actively contributes to international AI/ML communities and summits.
-  </p>
-</td>
-</tr> </table>
+## 🌟 The Minds Behind This Work 🔥
+
+### 👨‍💻 Gopinath Chidambaram  
+🔗 https://www.linkedin.com/in/gopinath-chidambaram/  
+
+Gopinath Chidambaram is a specialist in AI and Cloud, delivering enterprise-scale AI intelligence since 2007. A globally recognized AI pioneer and a **“40 Under 40 AI Builder”** awardee, he is dedicated to bridging the gap between complex algorithms and human-centric solutions.  
+
+He notably spearheaded the development of one of India’s first proof-of-concept **Level-5 Autonomous Vehicle AI stacks** and holds **five patents** in AI and autonomous systems. Known for scaling AI products from research to global production, he is also an active open-source contributor and mentor to the next generation of data scientists and machine learning engineers.  
+
+A sought-after speaker at international technology summits, he advocates for the ethical and high-impact deployment of Generative AI and Agentic AI.
+
+---
+
+### 👨‍💻 Nandhagopalan Elangovan  
+🔗 https://www.linkedin.com/in/nandhu15/  
+
+Nandhagopalan Elangovan is a leading expert in AI, Transformer architectures, and Deep Learning, recognized for his contributions to cross-lingual NLP models and predictive analytics. With an academic foundation from Anna University and Great Lakes Institute of Management, he specializes in end-to-end operationalization of AI systems.  
+
+His expertise spans the full AI lifecycle—from training custom word embeddings to deploying high-performance systems using Python and cloud-native architectures.  
+
+He is dedicated to advancing **Human-in-the-Loop AI**, focusing on interpretable machine learning systems that deliver transparent, data-driven insights. His work promotes scalable, open-source-inspired platforms that democratize AI learning and accessibility.
+
+---
+
+### 👩‍💻 Shravanthi A  
+🔗 https://www.linkedin.com/in/shravanthia345996225/  
+
+Shravanthi A is a Principal AI Scientist driven by the mission to create **“tech for good and tech for all.”** She is widely recognized for developing inclusive technologies that leverage Artificial Intelligence to improve everyday life.  
+
+Her journey reflects strong academic excellence combined with hands-on innovation in communication technologies, Generative AI, and Agentic AI. She specializes in Python and intelligent systems to design impactful, real-world solutions.  
+
+With a passion for hardware-integrated intelligent systems for the community, she is at the forefront of engineers operationalizing AI to solve complex global challenges. She is also an active participant in global AI/ML summits and practitioner circles.
+
+---
+
+## 🌟 Contributors
+
+### 👩‍💻 Varshini S  
+🔗 https://www.linkedin.com/in/varshini-sasikumar-bb3b28227/
+
+Varshini S is a Full Stack Developer skilled in building scalable and user-friendly applications across modern web technologies. She brings hands-on experience in developing end-to-end solutions with a strong focus on performance and usability.  
+
+Passionate about Artificial Intelligence, she is actively expanding her knowledge in Machine Learning, Generative AI, and intelligent systems, with a strong interest in integrating AI capabilities into real-world software applications.  
+
+As a contributor, she adds a practical development perspective, emphasizing implementation, scalability, and real-world impact.
+
 ---
 ## 🤝 Contributor Credits
 
