@@ -47,6 +47,7 @@
 </table>
 
 ---
+<table width="100%" border="0"> <tr> <td width="33%" valign="top" style="padding: 15px;"> <h3 align="center">Gopinath Chidambaram</h3> <p align="center"><a href="https://www.linkedin.com/in/gopinath-chidambaram/">🔗 LinkedIn </a> </p> <p> Gopinath Chidambaram is a specialist in AI and Cloud, delivering enterprise-scale AI intelligence since 2007. A globally recognized AI pioneer and a <b>“40 Under 40 AI Builder”</b> awardee, he is dedicated to bridging the gap between complex algorithms and human-centric solutions. <br><br> He notably spearheaded the development of one of India’s first proof-of-concept <b>Level-5 Autonomous Vehicle AI stacks</b> and holds <b>five patents</b> in AI and autonomous systems. Known for scaling AI products from research to global production, he is also an active open-source contributor and mentor to the next generation of data scientists and ML engineers. <br><br> A sought-after speaker at international technology summits, he advocates for ethical and high-impact deployment of Generative AI and Agentic AI. </p> </td>
 <td width="33%" valign="top" style="padding: 15px;">
   <h3 align="center">Nandhagopalan Elangovan</h3>
   <p align="center">
@@ -78,6 +79,7 @@
     Passionate about hardware-integrated intelligent systems, she is at the forefront of engineers operationalizing AI for global challenges and actively contributes to international AI/ML communities and summits.
   </p>
 </td>
+</tr> </table>
 ---
 ## 🤝 Contributor Credits
 
