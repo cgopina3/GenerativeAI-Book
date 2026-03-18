@@ -20,11 +20,11 @@
       <p align="center"><i>Theoretical frameworks & manuscript content</i></p>
       <hr>
       <ul>
-        <li><b>Part 1: AI Essentials: Into The Math-Verse</b><br>
+        <li><b>Volume 1: AI Essentials: Into The Math-Verse</b><br>
           <small>Focus: Linear Algebra, Matrix Calculus, & Backpropagation.</small>
         </li>
         <br>
-        <li><b>Part 2: Introduction to Gen AI</b><br>
+        <li><b>Volume 2: Introduction to Gen AI</b><br>
           <small>Focus: Transformer Architectures & LLM Evolution.</small>
         </li>
       </ul>
