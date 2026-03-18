@@ -47,12 +47,11 @@
 </table>
 
 ---
----
 
 ## 🌟 The Minds Behind This Work 🔥
 
 ### 👨‍💻 Gopinath Chidambaram  
-🔗 https://www.linkedin.com/in/gopinath-chidambaram/  
+[![Connect on LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gopinath-chidambaram/)  
 
 Gopinath Chidambaram is a specialist in AI and Cloud, delivering enterprise-scale AI intelligence since 2007. A globally recognized AI pioneer and a **“40 Under 40 AI Builder”** awardee, he is dedicated to bridging the gap between complex algorithms and human-centric solutions.  
 
@@ -63,7 +62,7 @@ A sought-after speaker at international technology summits, he advocates for the
 ---
 
 ### 👨‍💻 Nandhagopalan Elangovan  
-🔗 https://www.linkedin.com/in/nandhu15/  
+[![Connect on LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nandhu15/)  
 
 Nandhagopalan Elangovan is a leading expert in AI, Transformer architectures, and Deep Learning, recognized for his contributions to cross-lingual NLP models and predictive analytics. With an academic foundation from Anna University and Great Lakes Institute of Management, he specializes in end-to-end operationalization of AI systems.  
 
@@ -74,7 +73,7 @@ He is dedicated to advancing **Human-in-the-Loop AI**, focusing on interpretable
 ---
 
 ### 👩‍💻 Shravanthi A  
-🔗 https://www.linkedin.com/in/shravanthia345996225/  
+[![Connect on LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shravanthia345996225/)  
 
 Shravanthi A is a Principal AI Scientist driven by the mission to create **“tech for good and tech for all.”** She is widely recognized for developing inclusive technologies that leverage Artificial Intelligence to improve everyday life.  
 
@@ -87,16 +86,14 @@ With a passion for hardware-integrated intelligent systems for the community, sh
 ## 🌟 Contributors
 
 ### 👩‍💻 Varshini S  
-🔗 https://www.linkedin.com/in/varshini-sasikumar-bb3b28227/
+[![Connect on LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/)  
 
 Varshini S is a Full Stack Developer skilled in building scalable and user-friendly applications across modern web technologies. She brings hands-on experience in developing end-to-end solutions with a strong focus on performance and usability.  
 
 Passionate about Artificial Intelligence, she is actively expanding her knowledge in Machine Learning, Generative AI, and intelligent systems, with a strong interest in integrating AI capabilities into real-world software applications.  
 
-As a contributor, she adds a practical development perspective, emphasizing implementation, scalability, and real-world impact.
-
 ---
-## 🤝 Contributor Credits
+## 🤝 Acknowledgements & Credits
 
 > [!IMPORTANT]
 > ### **Yash Kavaiya**
