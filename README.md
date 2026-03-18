@@ -47,7 +47,38 @@
 </table>
 
 ---
+<td width="33%" valign="top" style="padding: 15px;">
+  <h3 align="center">Nandhagopalan Elangovan</h3>
+  <p align="center">
+    <a href="https://www.linkedin.com/in/nandhu15/">
+      🔗 LinkedIn
+    </a>
+  </p>
+  <p>
+    Nandhagopalan Elangovan is a leading expert in AI, Transformer architectures, and Deep Learning, recognized for his contributions to cross-lingual NLP models and predictive analytics. With an academic foundation from Anna University and Great Lakes Institute of Management, he specializes in end-to-end operationalization of AI systems.  
+    <br><br>
+    His expertise spans the full AI lifecycle—from training custom word embeddings to deploying high-performance systems using Python and cloud-native architectures.  
+    <br><br>
+    He is dedicated to advancing <b>Human-in-the-Loop AI</b>, focusing on interpretable machine learning systems that deliver transparent, data-driven insights. His work promotes scalable, open-source-inspired platforms that democratize AI learning and accessibility.
+  </p>
+</td>
 
+<td width="33%" valign="top" style="padding: 15px;">
+  <h3 align="center">Shravanthi A</h3>
+  <p align="center">
+    <a href="https://www.linkedin.com/in/shravanthia345996225/">
+      🔗 LinkedIn
+    </a>
+  </p>
+  <p>
+    Shravanthi A is a Principal AI Scientist driven by the mission to create <b>“tech for good and tech for all.”</b> She is widely recognized for developing inclusive technologies that leverage AI to improve everyday life.  
+    <br><br>
+    Her journey reflects strong academic excellence combined with hands-on innovation in communication technologies, Generative AI, and Agentic AI. She specializes in Python and intelligent systems to design impactful, real-world solutions.  
+    <br><br>
+    Passionate about hardware-integrated intelligent systems, she is at the forefront of engineers operationalizing AI for global challenges and actively contributes to international AI/ML communities and summits.
+  </p>
+</td>
+---
 ## 🤝 Contributor Credits
 
 > [!IMPORTANT]
