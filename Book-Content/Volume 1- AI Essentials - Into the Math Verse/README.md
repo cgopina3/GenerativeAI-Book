@@ -108,7 +108,7 @@ This is **Volume 1** of the series.
 ### 🌟 Authors
 
 #### 👨‍💻 Gopinath Chidambaram  
-🔗 [LinkedIn] (https://www.linkedin.com/in/gopinath-chidambaram/)
+🔗 [LinkedIn](https://www.linkedin.com/in/gopinath-chidambaram/)
 
 AI and Cloud specialist with extensive experience in enterprise-scale AI systems. Recognized as a “40 Under 40 AI Builder,” he focuses on translating complex AI concepts into real-world solutions.
 
