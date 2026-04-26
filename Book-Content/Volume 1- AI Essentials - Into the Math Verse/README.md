@@ -108,7 +108,7 @@ This is **Volume 1** of the series.
 ### 🌟 Authors
 
 #### 👨‍💻 Gopinath Chidambaram  
-🔗 LinkedIn
+🔗 [LinkedIn] (https://www.linkedin.com/in/gopinath-chidambaram/)
 
 AI and Cloud specialist with extensive experience in enterprise-scale AI systems. Recognized as a “40 Under 40 AI Builder,” he focuses on translating complex AI concepts into real-world solutions.
 
@@ -117,7 +117,7 @@ He has led early autonomous vehicle AI proof-of-concepts in India and holds mult
 ---
 
 #### 👨‍💻 Nandhagopalan Elangovan  
-🔗 LinkedIn
+🔗 [LinkedIn](https://www.linkedin.com/in/nandhu15/)
 
 Specialist in deep learning, Transformer architectures, and NLP systems. His work spans cross-lingual models and scalable AI pipelines.
 
@@ -126,7 +126,7 @@ He focuses on building interpretable, human-in-the-loop AI systems using Python 
 ---
 
 #### 👩‍💻 Shravanthi A  
-🔗 LinkedIn
+🔗 [LinkedIn](https://www.linkedin.com/in/shravanthia345996225/)
 
 Principal AI Scientist focused on building inclusive AI systems under the vision of “tech for good and tech for all.”
 
@@ -137,7 +137,7 @@ Her expertise includes Generative AI, intelligent systems, and real-world AI app
 ### 🌟 Contributors
 
 #### 👩‍💻 Varshini S  
-🔗 LinkedIn
+🔗 [LinkedIn](https://www.linkedin.com/in/varshini-sasikumar-bb3b28227/)
 
 Full Stack Developer experienced in building scalable and user-friendly applications. She is actively exploring Machine Learning and Generative AI, with a focus on integrating AI into modern software systems.
 
