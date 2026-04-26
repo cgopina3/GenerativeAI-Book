@@ -98,6 +98,40 @@ This is **Volume 1** of the series.
 * Modern deep learning concepts
 
 ---
+👥 About the Authors & Contributors
+🌟 Authors
+👨‍💻 Gopinath Chidambaram
+
+🔗 LinkedIn
+
+Gopinath Chidambaram is an AI and Cloud specialist with extensive experience in building and scaling enterprise AI systems. Recognized as a “40 Under 40 AI Builder,” he focuses on translating complex AI concepts into real-world solutions.
+
+He has led the development of early proof-of-concept Level-5 autonomous vehicle AI systems in India and holds multiple patents in AI and autonomous technologies. He is also an active mentor, open-source contributor, and speaker on Generative and Agentic AI.
+
+👨‍💻 Nandhagopalan Elangovan
+
+🔗 LinkedIn
+
+Nandhagopalan Elangovan specializes in deep learning, Transformer architectures, and NLP systems. His work includes cross-lingual models and scalable AI pipelines.
+
+He focuses on building interpretable, human-in-the-loop AI systems using Python and cloud-native technologies, making AI more transparent and accessible.
+
+👩‍💻 Shravanthi A
+
+🔗 LinkedIn
+
+Shravanthi A is a Principal AI Scientist committed to building inclusive AI systems under the vision of “tech for good and tech for all.”
+
+Her expertise includes Generative AI, intelligent systems, and real-world AI applications aimed at solving meaningful societal challenges.
+
+🌟 Contributors
+👩‍💻 Varshini S
+
+🔗 LinkedIn
+
+Varshini S is a Full Stack Developer experienced in building scalable and user-friendly applications. She is actively exploring Machine Learning and Generative AI, with a focus on integrating AI into modern software systems.
+
+---
 
 ## 💡 Final Note
 
