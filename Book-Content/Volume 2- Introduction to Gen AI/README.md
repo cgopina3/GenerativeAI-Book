@@ -103,13 +103,6 @@ He focuses on building interpretable, human-in-the-loop AI systems using Python 
 
 ---
 
-#### 👩‍💻 Shravanthi A  
-🔗 [LinkedIn](https://www.linkedin.com/in/shravanthia345996225/)
-
-Principal AI Scientist focused on building inclusive AI systems under the vision of “tech for good and tech for all.”
-
-Her expertise includes Generative AI, intelligent systems, and real-world AI applications solving meaningful societal challenges.
-
 ---
 
 ### 🌟 Contributors
@@ -119,7 +112,6 @@ Her expertise includes Generative AI, intelligent systems, and real-world AI app
 
 Full Stack Developer experienced in building scalable and user-friendly applications. She is actively exploring Machine Learning and Generative AI, with a focus on integrating AI into modern software systems.
 
----
 
 ---
 
