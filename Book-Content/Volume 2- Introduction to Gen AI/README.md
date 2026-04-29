@@ -81,40 +81,45 @@ AI is evolving rapidly. This book simplifies complex ideas and connects theory w
 ---
 
 🔮 What’s Next?
----
-👥 About the Authors & Contributors
-🌟 Authors
-👨‍💻 Gopinath Chidambaram
-🔗 LinkedIn
+## 👥 About the Authors & Contributors
+
+### 🌟 Authors
+
+#### 👨‍💻 Gopinath Chidambaram  
+🔗 [LinkedIn](https://www.linkedin.com/in/gopinath-chidambaram/)
 
 AI and Cloud specialist with extensive experience in enterprise-scale AI systems. Recognized as a “40 Under 40 AI Builder,” he focuses on translating complex AI concepts into real-world solutions.
 
 He has led early autonomous vehicle AI proof-of-concepts in India and holds multiple patents in AI and autonomous systems. He is also an active mentor, open-source contributor, and speaker on Generative and Agentic AI.
 
-👨‍💻 Nandhagopalan Elangovan
-🔗 LinkedIn
+---
+
+#### 👨‍💻 Nandhagopalan Elangovan  
+🔗 [LinkedIn](https://www.linkedin.com/in/nandhu15/)
 
 Specialist in deep learning, Transformer architectures, and NLP systems. His work spans cross-lingual models and scalable AI pipelines.
 
 He focuses on building interpretable, human-in-the-loop AI systems using Python and cloud-native technologies.
 
-👩‍💻 Shravanthi A
-🔗 LinkedIn
+---
+
+#### 👩‍💻 Shravanthi A  
+🔗 [LinkedIn](https://www.linkedin.com/in/shravanthia345996225/)
 
 Principal AI Scientist focused on building inclusive AI systems under the vision of “tech for good and tech for all.”
 
 Her expertise includes Generative AI, intelligent systems, and real-world AI applications solving meaningful societal challenges.
 
-🌟 Contributors
-👩‍💻 Varshini S
-🔗 LinkedIn
-
-Full Stack Developer experienced in building scalable and user-friendly applications. She is actively exploring Machine Learning and Generative AI, with a focus on integrating AI into modern software systems.
 ---
 
-## ✨ Author Note
+### 🌟 Contributors
 
-This book is designed to make AI concepts intuitive, visual, and easy to grasp—bridging the gap between theory and real-world generative systems.
+#### 👩‍💻 Varshini S  
+🔗 [LinkedIn](https://www.linkedin.com/in/varshini-sasikumar-bb3b28227/)
+
+Full Stack Developer experienced in building scalable and user-friendly applications. She is actively exploring Machine Learning and Generative AI, with a focus on integrating AI into modern software systems.
+
+---
 
 ---
 
